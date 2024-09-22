@@ -1,5 +1,5 @@
 import React from 'react'; 
-// these are basically our cards the return returns 
+// these are basically our cards that returns 
 //an image of a robo with its name and other things which is fetched dynamically using props 
 //we first used this.props.email but badme we used a function and not a object so this is not required.
 //

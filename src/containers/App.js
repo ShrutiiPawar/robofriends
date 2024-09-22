@@ -5,6 +5,7 @@ import Scroll from '../components/Scroll';
 import '../containers/App.css';
 
 //npm install react-scripts@latest    upgrade your tools using this command
+//then run npm run and npm start
 
 class App extends Component {
    constructor() {
